@@ -1,0 +1,2 @@
+# Analysis-of-Marine-Data
+Marine data has got total 2922 records of 14 different vessels(ship) which talk about the amount of fuels consumption of vessels at different operating condition such as area of vessels under the sea at different sea state, wind direction, wind speed, wave height &amp; wave current (force acting on water) etc.  Among the 14 vessels MRT DIAS, MRT FLINDERS, MRT DJULPAN has got more numbers of records almost 300.
